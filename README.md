@@ -28,6 +28,7 @@ At AIConflux, we provide a comprehensive toolkit designed to simplify the proces
 
 # Backend
 https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=difti-nqaaa-aaaam-abtua-cai
+Deployed on ICP network
 
 # Usage
 
