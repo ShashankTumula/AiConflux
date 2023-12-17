@@ -26,6 +26,9 @@ At AIConflux, we provide a comprehensive toolkit designed to simplify the proces
 * Community
 * Learning Resources
 
+# Backend
+https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=difti-nqaaa-aaaam-abtua-cai
+
 # Usage
 
 * Visit AIConflux in your web browser and securely sign in using Internet Identity to access the platform.
